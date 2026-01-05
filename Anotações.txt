@@ -1,0 +1,6 @@
+if = se
+else = se não
+|| = ou
+swith -> caso
+
+! = não

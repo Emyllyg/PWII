@@ -1,0 +1,6 @@
+Hoje faremos uma pesquisa escrita sobre o tema:
+Sanitização e prevenção de SQL Injection e XSS (cross-site scripting).
+Falar sobre:
+1 - O que é e o que é necessário para Prevenir SQL Injection.
+2 - O que é e o que é necessário para Prevenir XSS (Cross-Site Scripting).
+3 - Citar as medidas gerais necessárias para manter a segurança e evitar que evitar que código malicioso seja executado em navegadores ou no banco de dados. 

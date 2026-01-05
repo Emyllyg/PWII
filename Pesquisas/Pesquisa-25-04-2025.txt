@@ -1,0 +1,19 @@
+Pesquisa.
+
+"O impacto da inteligência artificial na programação: avanços, desafios e tendências"
+
+Montar em slides (com imagem para ilustrar) a pesquisa e no ultimo slide colocar as fontes de onde pegaram
+
+Você pode explorar tópicos como:
+
+Evolução das linguagens de programação devido à IA
+
+Automação de tarefas no desenvolvimento de software
+
+Ética no uso de IA para programação
+
+Comparação entre código gerado por humanos e IA
+
+
+
+IDE -> é uma aplicação de software que ajuda os programadores a desenvolver código de software de maneira eficiente
